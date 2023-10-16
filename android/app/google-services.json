@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1056065367040",
+    "project_id": "kingslab",
+    "storage_bucket": "kingslab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056065367040:android:45d37222f406328cab7ce5",
+        "android_client_info": {
+          "package_name": "com.example.bloc_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo8bO8smJ35BSiS9RvbWhCVyLzRX4f_fI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056065367040:android:6fe286c2a30282a0ab7ce5",
+        "android_client_info": {
+          "package_name": "com.example.kingslabmachinetest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo8bO8smJ35BSiS9RvbWhCVyLzRX4f_fI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
